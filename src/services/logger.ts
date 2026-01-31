@@ -213,3 +213,4 @@ export function createLogger(config?: Partial<LoggerConfig>): Logger {
 }
 // Testing collapsed comments
 // Test collapsed UI
+// Reduced noise test
