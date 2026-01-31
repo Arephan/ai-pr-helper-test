@@ -68,3 +68,4 @@ export function generateUnsubscribeLink(email: string): string {
   return `https://example.com/unsubscribe?email=${email}`;
 }
 // Trigger fresh analysis
+// Test collapsible index
