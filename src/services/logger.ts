@@ -211,3 +211,4 @@ export class Logger {
 export function createLogger(config?: Partial<LoggerConfig>): Logger {
   return new Logger(config);
 }
+// Testing collapsed comments
