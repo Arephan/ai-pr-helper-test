@@ -67,3 +67,4 @@ export async function sendBulkEmails(messages: EmailMessage[]): Promise<void> {
 export function generateUnsubscribeLink(email: string): string {
   return `https://example.com/unsubscribe?email=${email}`;
 }
+// Trigger fresh analysis
