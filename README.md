@@ -9,3 +9,4 @@ This repo is for testing the AI PR Helper v2 GitHub Action.
 3. Interactive Q&A bot
 4. Auto-labeling (size:xs/s/m/l/xl)
 # Testing inline comments
+# Inline comment test
